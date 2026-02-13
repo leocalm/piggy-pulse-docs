@@ -1,6 +1,6 @@
 window.onload = function () {
   window.ui = SwaggerUIBundle({
-    url: "https://api.piggy-pulse/api/v1/openapi.json",
+    url: "https://api.piggy-pulse.com/api/v1/openapi.json",
     dom_id: "#swagger-ui",
     deepLinking: true,
     displayRequestDuration: true,
